@@ -5,7 +5,7 @@ L.TileLayer.HERE = L.TileLayer.extend({
 		maxZoom: 18,
 
 		// option style: String = 'explore.day'
-		style: 'explore.day',
+		style: 'explore.night',
 
 		// option resource: String = 'base'
 		resource: 'base',
